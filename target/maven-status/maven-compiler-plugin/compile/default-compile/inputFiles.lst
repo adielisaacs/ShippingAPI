@@ -1,0 +1,17 @@
+C:\springcourse\shipment\src\main\java\com\shipping\api\repository\ShipmentStateRepository.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\repository\ShipmentEventRepository.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\service\ShipmentEventService.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\modal\ShipmentCurrentEvents.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\modal\ShipmentEvents.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\controller\ShipmentEventController.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\modal\ProcessingResult.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\dto\ShipmentEventResponse.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\service\ShipmentStateService.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\dto\ShipmentEventRequest.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\dto\ShipmentStateResponse.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\service\ShipmentStateServiceImpl.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\service\ShipmentEventServiceImpl.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\ShipmentApplication.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\ServletInitializer.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\dto\ShipmentHistoryResponse.java
+C:\springcourse\shipment\src\main\java\com\shipping\api\modal\ShipmentStatus.java
